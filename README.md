@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aditya23soni
 - 👀 I’m interested in working with data and creating data-driven solutions for organizataions
-- 🌱 I’m currently learning and practicing SQL
+- 🌱 I’m currently learning and practicing SQL, EDA using Python Jupyter Notebook, and Basics of ML
 - 💞️ I’m looking to collaborate on data analysis projects
 - 📫 How to reach me. Reach me @ adityasoni2310@gmail.com
 
