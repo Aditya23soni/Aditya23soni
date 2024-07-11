@@ -3,17 +3,22 @@ I have more than 2 years of experience in product, marketing, and e-commerce ana
 
 I have skills in:
 
--Product management using JIRA, Confluence, Asana, and Monday.
+Product management using JIRA, Confluence, Asana, and Monday.
 
--Product & Marketing: Campaigns management, Marketing - Sales funnels, Marketing Automation, A/B testing, Market Basket Analysis, Sentiment Analysis, User Journey Analysis, Google Analytics, CRMs
+Product & Marketing: Campaigns management, Marketing - Sales funnels, Marketing Automation, A/B testing, Market Basket Analysis, Sentiment Analysis, User Journey Analysis, Google Analytics, CRMs
 
 Data manipulation & Modeling using Python (OpenCV, Pandas, NumPy, scikit, matplotlib, TensorFlow)
 
 Data wrangling using SQL
 
 Data Visualisation using MS Excel & Tableau.
+
 Statistical analysis, Hypothesis testing(A/B Testing)
+
 Skills and Expertise Data Analysis: Data Modelling, Data Wrangling, Python (Pandas, NumPy, scikit, matplotlib, TensorFlow), SQL, R, SPSS, MATLAB, Statistical analysis, Hypothesis testing, Big Data Analytics
+
 Data Visualization/Dashboard: Tableau, Advanced MS Excel, Microsoft Power BI looker
+
 Machine Learning: Supervised learning (KNN, Random Forest, Regression Analysis, General linear models, Naïve Bayes Classifiers, CHAID, Gradient Descent), Unsupervised learning(K-means, PCA, Clustering), Neural Networks, Ensemble Methods, Regularizations
+
 Cloud: AWS(SageMaker, Redshift, EC2, S3), GCP
