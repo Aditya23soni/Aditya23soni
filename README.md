@@ -3,9 +3,9 @@ I have more than 2 years of experience in product, marketing, and e-commerce ana
 
 I have skills in:
 
-Product management using JIRA, Confluence, Asana, and Monday.
+-Product management using JIRA, Confluence, Asana, and Monday.
 
-Product & Marketing: Campaigns management, Marketing - Sales funnels, Marketing Automation, A/B testing, Market Basket Analysis, Sentiment Analysis, User Journey Analysis, Google Analytics, CRMs
+-Product & Marketing: Campaigns management, Marketing - Sales funnels, Marketing Automation, A/B testing, Market Basket Analysis, Sentiment Analysis, User Journey Analysis, Google Analytics, CRMs
 
 Data manipulation & Modeling using Python (OpenCV, Pandas, NumPy, scikit, matplotlib, TensorFlow)
 
