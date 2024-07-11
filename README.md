@@ -1,4 +1,4 @@
-- Hi, I’m **ADITYA SONI**
+Hi, I’m **ADITYA SONI**
 I have more than 2 years of experience in product, marketing, and e-commerce analytics. I am a recent MS Business Analytics graduate (CGPA 3.89) from the University of Texas at Dallas. I am extremely passionate about working on Data Problems. When I'm not working or reading, I like to spend my hours actively cycling, working out, and Cooking! On top of this, I am a product geek, and I like spending time working on case studies to revamp existing products in the market.
 
 I have skills in-
